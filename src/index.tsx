@@ -83,7 +83,7 @@ function ConnectedWidget({
 const defaultProps = {
   title: 'Welcome',
   subtitle: 'This is your chat subtitle',
-  senderPlaceHolder: 'Teste do Diogo...',
+  senderPlaceHolder: 'Super teste...',
   showCloseButton: true,
   fullScreenMode: false,
   autofocus: true,
